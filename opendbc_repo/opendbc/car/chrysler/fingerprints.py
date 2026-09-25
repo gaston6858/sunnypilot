@@ -284,21 +284,26 @@ FW_VERSIONS = {
   CAR.JEEP_CHEROKEE_5TH_GEN: {
     (Ecu.combinationMeter, 0x18da60f1, None): [
       b'68492643AC',
+      b'68565475AB',
     ],
     (Ecu.srs, 0x18dac0f1, None): [
       b'68469498AA',
+      b'68469499AA',
     ],
     (Ecu.abs, 0x18da28f1, None): [
       b'68477674AB',
     ],
     (Ecu.eps, 0x18da30f1, None): [
       b'68319152AJ',
+      b'68319154AK',
     ],
     (Ecu.engine, 0x18da10f1, None): [
       b'68493558AD ',
+      b'68541944AC ',
     ],
     (Ecu.transmission, 0x18da18f1, None): [
       b'68492011AD',
+      b'68529016AC',
     ],
   },
   CAR.JEEP_GRAND_CHEROKEE: {
